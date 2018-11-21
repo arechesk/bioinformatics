@@ -17,16 +17,16 @@
     - [Counting Peptides with Given Mass Problem](2.PeptideSequencing/CountingPeptidesWithGivenMassProblem.py)
 3. ### Brute Force versus Branch and Bound
   
-    - [~~Cyclopeptide Sequencing Problem~~]()
-    - [~~Cyclopeptide Scoring Problem~~]()
-    - [~~Leaderboard Cyclopeptide Sequencing Problem~~]()
+    - [~~Cyclopeptide Sequencing Problem~~](./3.BruteForce/CyclopeptideSequencingProblem.py)
+    - [~~Cyclopeptide Scoring Problem~~](./3.BruteForce/CyclopeptideScoringProblem.py)
+    - [~~Leaderboard Cyclopeptide Sequencing Problem~~](./3.BruteForce/LeaderboardCyclopeptideSequencingProblem.py)
 4. ### Motif Finding
 
-    - [~~Motif Enumeration Problem~~]()
-    - [~~Median String Problem~~]()
+    - [~~Motif Enumeration Problem~~](./4.Motif%20Finding/MotifEnumerationProblem.py)
+    - [~~Median String Problem~~](./4.Motif%20Finding/MedianStringProblem.py)
 5. ### Motif Finding. Greedy
 
-    - [~~Profile-most Probable k-mer Problem~~]() 
-    - [~~Greedy Motif Search~~]()
-    - [~~Greedy Motif Search with pseudocounts~~]()
+    - [~~Profile-most Probable k-mer Problem~~](./5.Motif%20Finding.%20Greedy/Profile-mostProbable_k-merProblem.py) 
+    - [~~Greedy Motif Search~~](./5.Motif%20Finding.%20Greedy/GreedyMotifSearch.py)
+    - [~~Greedy Motif Search with pseudocounts~~](./5.Motif%20Finding.%20Greedy/GreedyMotifSearch_with_pseudocounts.py)
 
