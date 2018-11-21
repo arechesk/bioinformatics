@@ -1,4 +1,5 @@
-# bioinformatics ![](http://schoolleaver.nz/media/k2/items/cache/269b36e876e375e05083f78293992209_M.jpg)
+# bioinformatics 
+![](http://schoolleaver.nz/media/k2/items/cache/269b36e876e375e05083f78293992209_M.jpg)
 
 [syllabus](https://stepik.org/course/45305/syllabus)
 
