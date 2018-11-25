@@ -38,7 +38,7 @@ def cyclospectrum(peptide):
                                                                     for i in range(1, n)
                                                                     for j in range(0, n)]]))))
 def Trim(n, Leaderboard, spectrum):
-    return [j[1] for j in sorted([(LinearScore(i,spectrum),i) for i in Leaderboard ],key= lambda x: x[0])[0:n]]
+    return [j[1] for j in sorted([(LinearScore(i,spectrum),i) for i in Leaderboard ],key= lambda x: x[0],reverse=True)[0:n]]
 
 
 def LinearScore(peptid,exSpectrum):
