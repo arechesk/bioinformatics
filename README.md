@@ -17,9 +17,9 @@
     - [Counting Peptides with Given Mass Problem](2.PeptideSequencing/CountingPeptidesWithGivenMassProblem.py)
 3. ### Brute Force versus Branch and Bound
   
-    - [~~Cyclopeptide Sequencing Problem~~](./3.BruteForce/CyclopeptideSequencingProblem.py)
-    - [~~Cyclopeptide Scoring Problem~~](./3.BruteForce/CyclopeptideScoringProblem.py)
-    - [~~Leaderboard Cyclopeptide Sequencing Problem~~](./3.BruteForce/LeaderboardCyclopeptideSequencingProblem.py)
+    - [Cyclopeptide Sequencing Problem](./3.BruteForce/CyclopeptideSequencingProblem.py)
+    - [Cyclopeptide Scoring Problem](./3.BruteForce/CyclopeptideScoringProblem.py)
+    - [Leaderboard Cyclopeptide Sequencing Problem](./3.BruteForce/LeaderboardCyclopeptideSequencingProblem.py)
 4. ### Motif Finding
 
     - [~~Motif Enumeration Problem~~](./4.Motif%20Finding/MotifEnumerationProblem.py)
