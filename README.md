@@ -22,7 +22,7 @@
     - [Leaderboard Cyclopeptide Sequencing Problem](./3.BruteForce/LeaderboardCyclopeptideSequencingProblem.py)
 4. ### Motif Finding
 
-    - [~~Motif Enumeration Problem~~](./4.Motif%20Finding/MotifEnumerationProblem.py)
+    - [Motif Enumeration Problem](./4.Motif%20Finding/MotifEnumerationProblem.py)
     - [~~Median String Problem~~](./4.Motif%20Finding/MedianStringProblem.py)
 5. ### Motif Finding. Greedy
 
