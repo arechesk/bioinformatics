@@ -23,7 +23,7 @@
 4. ### Motif Finding
 
     - [Motif Enumeration Problem](./4.Motif%20Finding/MotifEnumerationProblem.py)
-    - [~~Median String Problem~~](./4.Motif%20Finding/MedianStringProblem.py)
+    - [Median String Problem](./4.Motif%20Finding/MedianStringProblem.py)
 5. ### Motif Finding. Greedy
 
     - [~~Profile-most Probable k-mer Problem~~](./5.Motif%20Finding.%20Greedy/Profile-mostProbable_k-merProblem.py) 
