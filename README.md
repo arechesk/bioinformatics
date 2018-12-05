@@ -26,7 +26,7 @@
     - [Median String Problem](./4.Motif%20Finding/MedianStringProblem.py)
 5. ### Motif Finding. Greedy
 
-    - [~~Profile-most Probable k-mer Problem~~](./5.Motif%20Finding.%20Greedy/Profile-mostProbable_k-merProblem.py) 
-    - [~~Greedy Motif Search~~](./5.Motif%20Finding.%20Greedy/GreedyMotifSearch.py)
-    - [~~Greedy Motif Search with pseudocounts~~](./5.Motif%20Finding.%20Greedy/GreedyMotifSearch_with_pseudocounts.py)
+    - [Profile-most Probable k-mer Problem](./5.Motif%20Finding.%20Greedy/Profile-mostProbable_k-merProblem.py) 
+    - [Greedy Motif Search](./5.Motif%20Finding.%20Greedy/GreedyMotifSearch.py)
+    - [Greedy Motif Search with pseudocounts](./5.Motif%20Finding.%20Greedy/GreedyMotifSearch_with_pseudocounts.py)
 
