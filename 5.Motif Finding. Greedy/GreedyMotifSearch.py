@@ -2,7 +2,7 @@ from functools import reduce
 
 
 def prob(profile, pattern):
-    return reduce(lambda x, y: x * y, [1] + [profile[pattern[i]][i] for i in range(len(pattern))])
+    return reduce(lambda x, y: x * y, [profile[pattern[i]][i] for i in range(len(pattern))])
 
 
 def profile_most_probable(dna, k, profile):
